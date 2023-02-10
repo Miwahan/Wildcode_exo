@@ -1,2 +1,2 @@
 # Wildcode_exo
-Juste an exercice :)
+Just an exercice :)
